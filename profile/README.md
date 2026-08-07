@@ -6,6 +6,6 @@ We develop **artificial intelligence and computational methods for RNA structura
 
 ---
 ## Contact
-* For collaboration or inquiries, please contact our Principal Investigator: **wangyunx@mail.nih.gov**
-* For support in using our tools, please contact our Lead Developer: **hermann.degenhardt@nih.gov**
-* If you encounter issues with a specific tool, please open an issue in the respective repository.
+* For scientific inquiries and collaborations, please contact our Principal Investigator: [Yun-Xing Wang, Ph.D.](mailto:wangyunx@mail.nih.gov)
+* For software, development, and technical inquiries, please contact our Lead Developer and Maintainer: [Hermann Degenhardt, Ph.D.](mailto:hermann.degenhardt@nih.gov)
+* For bug reports, feature requests, or tool-specific questions, please open an issue in the respective repository.
