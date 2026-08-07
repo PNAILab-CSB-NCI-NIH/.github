@@ -15,7 +15,7 @@ Our goal is to develop generalizable computational approaches that connect molec
 ### Scientific Leadership
 
 **[Yun-Xing Wang, Ph.D.](https://ccr.cancer.gov/staff-directory/yun-xing-wang)**  
-Senior Principal Investigator & Head of Protein–Nucleic Acid Interaction Section (PNAI). 
+Senior Principal Investigator & Head of Protein–Nucleic Acid Interaction Section (PNAI)  
 Chief of the Center for Structural Biology (CSB), National Cancer Institute (NCI)
 
 ### Computational Research & Software
