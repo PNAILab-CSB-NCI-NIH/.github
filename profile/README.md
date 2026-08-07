@@ -2,23 +2,10 @@
 
 Welcome to the GitHub organization for the computational research of the **Protein–Nucleic Acid Interaction (PNAI) Section**, **Center for Structural Biology (CSB)**, **Center for Cancer Research (CCR)**, **National Cancer Institute (NCI)**, **National Institutes of Health (NIH)**.
 
-We develop **artificial intelligence and computational methods for RNA structural biology**, with a focus on RNA three-dimensional structure determination, prediction, modeling, and conformational dynamics.
-
-Our goal is to develop generalizable computational approaches that connect molecular and experimental information with RNA 3D structure and help address challenging problems in structural biology.
+We develop **artificial intelligence and computational methods for RNA structural biology**, with a focus on RNA three-dimensional structure determination, prediction, modeling, and conformational dynamics. Our goal is to develop generalizable computational approaches that connect molecular and experimental information with RNA 3D structure and help address challenging problems in structural biology.
 
 ---
 ## Contact
 * For collaboration or inquiries, please contact our Principal Investigator: **wangyunx@mail.nih.gov**
 * For support in using our tools, please contact our Lead Developer: **hermann.degenhardt@nih.gov**
 * If you encounter issues with a specific tool, please open an issue in the respective repository.
-
-### Scientific Leadership
-
-**[Yun-Xing Wang, Ph.D.](https://ccr.cancer.gov/staff-directory/yun-xing-wang)**  
-Senior Principal Investigator & Head of Protein–Nucleic Acid Interaction Section (PNAI)  
-Chief of the Center for Structural Biology (CSB), National Cancer Institute (NCI)
-
-### Computational Research & Software
-
-**Hermann Degenhardt, Ph.D.**  
-Staff Scientist · **Lead Developer & Maintainer**
